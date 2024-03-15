@@ -1,6 +1,7 @@
 {
   "name": "ranran",
   "version": "1.1.4",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
